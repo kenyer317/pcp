@@ -1,0 +1,201 @@
+ID_Articulo,Nombre_Articulo,Categoria,Precio_Unitario,Stock,Disponibilidad,Fecha_Ultima_Venta,Unidades_Vendidas_Ultimo_Mes,Valor_Total_Ventas_Ultimo_Mes
+1,Altavoz Inteligente Amazon Echo Dot,Electrónica,552.12,391,En Stock,2025-01-28,114,14275.98
+2,Anillo de Compromiso Blue Nile,Moda,440.09,242,En Stock,2024-08-01,92,4427.35
+3,Tostadora Smeg,Hogar y Cocina,224.23,261,En Stock,2024-11-20,131,10012.87
+4,Termostato Inteligente Ecobee,Electrónica,1359.81,215,En Stock,2025-05-19,178,14169.57
+5,Microscopio AmScope,Juguetes,114.73,472,En Stock,2024-12-07,175,18854.76
+6,Máquina de Remo Concept2,Deportes,1179.35,398,En Stock,2024-09-02,156,6649.37
+7,Monitor Dell UltraSharp U2723QE,Oficina,700.52,246,En Stock,2024-08-04,183,16198.81
+8,Billetera Bellroy,Moda,23.36,364,En Stock,2024-09-17,166,19310.82
+9,Secador de Pelo Dyson Supersonic,Salud y Belleza,752.42,488,En Stock,2024-09-24,116,19177.3
+10,Máquina de Coser Singer,Hogar y Cocina,1154.33,264,En Stock,2024-11-24,197,11762.3
+11,Botella de Agua Hydro Flask,Deportes,952.15,310,En Stock,2024-07-28,15,6409.04
+12,Taladro Inalámbrico Makita,Automotriz,763.5,417,En Stock,2025-06-25,186,16391.24
+13,Zapatillas Nike Air Force 1,Moda,1368.51,209,En Stock,2024-09-11,103,16527.24
+14,Robot Aspirador Roomba i7,Hogar y Cocina,1072.11,373,En Stock,2024-08-27,87,14343.89
+15,Teclado Mecánico HyperX Alloy Origins,Oficina,1250.69,326,En Stock,2024-12-04,80,6832.06
+16,Libro El Quijote,Libros,64.88,148,En Stock,2025-06-25,83,15867.24
+17,Purificador de Aire Coway,Hogar y Cocina,1479.92,109,En Stock,2024-11-06,177,10996.65
+18,Termo Stanley Classic,Deportes,370.82,238,En Stock,2024-07-16,104,17163.63
+19,Cerradura Inteligente August,Electrónica,816.64,152,En Stock,2025-05-18,172,13098.7
+20,Sábanas de Lino Parachute,Hogar y Cocina,710.02,237,En Stock,2025-06-03,138,10359.83
+21,Mapa Mural National Geographic,Libros,123.63,443,En Stock,2025-02-18,97,17804.81
+22,Monitor Dell UltraSharp U2723QE,Oficina,270.6,448,En Stock,2024-07-14,84,14232.06
+23,SSD Samsung 990 Pro,Electrónica,1447.85,152,En Stock,2025-05-09,196,16164.76
+24,Cafetera Nespresso Vertuo,Hogar y Cocina,686.0,404,En Stock,2025-04-20,131,2343.68
+25,Secadora LG Smart,Hogar y Cocina,128.53,197,En Stock,2024-11-23,170,16632.18
+26,Router TP-Link Archer AXE75,Electrónica,147.16,365,En Stock,2024-08-01,171,9405.04
+27,Candado Master Lock,Automotriz,106.88,187,En Stock,2025-04-24,196,16223.79
+28,Sopladora de Hojas Ego Power+,Jardín,117.84,185,En Stock,2025-01-26,16,12889.37
+29,Mochila JanSport,Oficina,1286.06,192,En Stock,2025-06-06,145,18820.73
+30,Lavavajillas Bosch 800 Series,Hogar y Cocina,1248.81,368,En Stock,2024-07-07,175,9921.28
+31,Máquina de Coser Singer,Hogar y Cocina,1063.81,257,En Stock,2024-11-28,157,11743.08
+32,Muebles de Patio Polywood,Jardín,887.6,122,En Stock,2024-09-08,127,15950.49
+33,Taladro Inalámbrico Makita,Automotriz,508.2,389,En Stock,2025-01-25,18,17178.69
+34,Juego de Cuchillos Victorinox,Hogar y Cocina,1470.93,16,En Stock,2024-10-02,159,18395.0
+35,Vajilla Corelle,Hogar y Cocina,1178.67,495,En Stock,2025-02-09,101,13524.22
+36,Botella de Agua Hydro Flask,Deportes,1170.81,173,En Stock,2024-12-09,165,19177.3
+37,Caja de Herramientas Husky,Automotriz,887.89,286,En Stock,2024-12-16,77,15867.24
+38,Juego de Mesa Catan,Juguetes,490.89,451,En Stock,2024-11-04,188,16632.18
+39,Máquina de Remo Concept2,Deportes,1467.22,467,En Stock,2024-09-09,107,12889.37
+40,Silla de Oficina Ergonómica,Oficina,568.14,195,En Stock,2024-08-25,97,4427.35
+41,Mochila Osprey Talon 22,Deportes,829.56,222,En Stock,2025-01-25,178,14169.57
+42,Smartphone Samsung Galaxy S24,Electrónica,1346.06,478,En Stock,2024-11-06,177,10996.65
+43,Set de Ollas y Sartenes Cuisinart,Hogar y Cocina,1479.92,109,En Stock,2024-11-06,177,10996.65
+44,Colchón Casper,Hogar y Cocina,1359.81,215,En Stock,2025-05-19,178,14169.57
+45,Silla de Oficina Ergonómica,Oficina,1404.99,149,En Stock,2025-04-20,131,2343.68
+46,Cortacésped Honda,Jardín,128.53,197,En Stock,2024-11-23,170,16632.18
+47,Robot Aspirador Roomba i7,Hogar y Cocina,1072.11,373,En Stock,2024-08-27,87,14343.89
+48,Libro El Quijote,Libros,147.16,365,En Stock,2024-08-01,171,9405.04
+49,Cerradura Inteligente August,Electrónica,106.88,187,En Stock,2025-04-24,196,16223.79
+50,Tablet Apple iPad Air,Electrónica,117.84,185,En Stock,2025-01-26,16,12889.37
+51,Monitor Dell UltraSharp U2723QE,Oficina,1286.06,192,En Stock,2025-06-06,145,18820.73
+52,Cortacésped Honda,Jardín,1248.81,368,En Stock,2024-07-07,175,9921.28
+53,Juego de Cuchillos Victorinox,Hogar y Cocina,1063.81,257,En Stock,2024-11-28,157,11743.08
+54,Termo Stanley Classic,Deportes,887.6,122,En Stock,2024-09-08,127,15950.49
+55,Router TP-Link Archer AXE75,Electrónica,508.2,389,En Stock,2025-01-25,18,17178.69
+56,Maletín Samsonite,Moda,1470.93,16,En Stock,2024-10-02,159,18395.0
+57,Bicicleta de Montaña Trek Marlin 5,Deportes,1178.67,495,En Stock,2025-02-09,101,13524.22
+58,Batidora KitchenAid Stand Mixer,Hogar y Cocina,1170.81,173,En Stock,2024-12-09,165,19177.3
+59,Caja de Herramientas Husky,Automotriz,887.89,286,En Stock,2024-12-16,77,15867.24
+60,Reloj Inteligente Apple Watch Series 9,Electrónica,490.89,451,En Stock,2024-11-04,188,16632.18
+61,Maletín Samsonite,Moda,1467.22,467,En Stock,2024-09-09,107,12889.37
+62,Teclado Mecánico HyperX Alloy Origins,Oficina,568.14,195,En Stock,2024-08-25,97,4427.35
+63,Aspiradora Vertical Shark,Hogar y Cocina,829.56,222,En Stock,2025-01-25,178,14169.57
+64,Robot Aspirador Roomba i7,Hogar y Cocina,1346.06,478,En Stock,2024-11-06,177,10996.65
+65,Cámara Fujifilm X-T5,Electrónica,1479.92,109,En Stock,2024-11-06,177,10996.65
+66,Reloj Inteligente Apple Watch Series 9,Electrónica,1359.81,215,En Stock,2025-05-19,178,14169.57
+67,Zapatillas Nike Air Force 1,Moda,1404.99,149,En Stock,2025-04-20,131,2343.68
+68,Consola PlayStation 5,Electrónica,128.53,197,En Stock,2024-11-23,170,16632.18
+69,Cortacésped Honda,Jardín,1072.11,373,En Stock,2024-08-27,87,14343.89
+70,SSD Samsung 990 Pro,Electrónica,147.16,365,En Stock,2024-08-01,171,9405.04
+71,Set de Sartenes T-fal,Hogar y Cocina,106.88,187,En Stock,2025-04-24,196,16223.79
+72,Altavoz Inteligente Amazon Echo Dot,Electrónica,117.84,185,En Stock,2025-01-26,16,12889.37
+73,Laptop HP Spectre x360,Electrónica,1286.06,192,En Stock,2025-06-06,145,18820.73
+74,Escritorio de Pie Ajustable,Oficina,1248.81,368,En Stock,2024-07-07,175,9921.28
+75,Máquina de Coser Singer,Hogar y Cocina,1063.81,257,En Stock,2024-11-28,157,11743.08
+76,Humidificador Levoit,Hogar y Cocina,887.6,122,En Stock,2024-09-08,127,15950.49
+77,Disco Duro Externo Seagate,Electrónica,508.2,389,En Stock,2025-01-25,18,17178.69
+78,Máquina de Coser Singer,Hogar y Cocina,1470.93,16,En Stock,2024-10-02,159,18395.0
+79,Tablet Apple iPad Air,Electrónica,1178.67,495,En Stock,2025-02-09,101,13524.22
+80,Maletín Samsonite,Moda,1170.81,173,En Stock,2024-12-09,165,19177.3
+81,Smartphone Samsung Galaxy S24,Electrónica,887.89,286,En Stock,2024-12-16,77,15867.24
+82,Cámara Fujifilm X-T5,Electrónica,490.89,451,En Stock,2024-11-04,188,16632.18
+83,Libro El Quijote,Libros,1467.22,467,En Stock,2024-09-09,107,12889.37
+84,Cámara Fujifilm X-T5,Electrónica,568.14,195,En Stock,2024-08-25,97,4427.35
+85,Auriculares Sony WH-1000XM5,Electrónica,829.56,222,En Stock,2025-01-25,178,14169.57
+86,Monitor Dell UltraSharp U2723QE,Oficina,1346.06,478,En Stock,2024-11-06,177,10996.65
+87,SSD Samsung 990 Pro,Electrónica,1479.92,109,En Stock,2024-11-06,177,10996.65
+88,Reloj Inteligente Apple Watch Series 9,Electrónica,1359.81,215,En Stock,2025-05-19,178,14169.57
+89,Maletín Samsonite,Moda,1404.99,149,En Stock,2025-04-20,131,2343.68
+90,Consola PlayStation 5,Electrónica,128.53,197,En Stock,2024-11-23,170,16632.18
+91,Cafetera Nespresso Vertuo,Hogar y Cocina,1072.11,373,En Stock,2024-08-27,87,14343.89
+92,Taladro Inalámbrico Makita,Automotriz,147.16,365,En Stock,2024-08-01,171,9405.04
+93,Escritorio de Pie Ajustable,Oficina,106.88,187,En Stock,2025-04-24,196,16223.79
+94,Router TP-Link Archer AXE75,Electrónica,117.84,185,En Stock,2025-01-26,16,12889.37
+95,Microondas Panasonic Inverter,Hogar y Cocina,1286.06,192,En Stock,2025-06-06,145,18820.73
+96,Sopladora de Hojas Ego Power+,Jardín,1248.81,368,En Stock,2024-07-07,175,9921.28
+97,Monitor Dell UltraSharp U2723QE,Oficina,1063.81,257,En Stock,2024-11-28,157,11743.08
+98,Router TP-Link Archer AXE75,Electrónica,887.6,122,En Stock,2024-09-08,127,15950.49
+99,Microscopio AmScope,Juguetes,508.2,389,En Stock,2025-01-25,18,17178.69
+100,Smartphone Samsung Galaxy S24,Electrónica,1470.93,16,En Stock,2024-10-02,159,18395.0
+101,Colchón Casper,Hogar y Cocina,1178.67,495,En Stock,2025-02-09,101,13524.22
+102,Tostadora Smeg,Hogar y Cocina,1170.81,173,En Stock,2024-12-09,165,19177.3
+103,Colchón Casper,Hogar y Cocina,887.89,286,En Stock,2024-12-16,77,15867.24
+104,Set de Sartenes T-fal,Hogar y Cocina,490.89,451,En Stock,2024-11-04,188,16632.18
+105,Robot Aspirador Roomba i7,Hogar y Cocina,1467.22,467,En Stock,2024-09-09,107,12889.37
+106,Cafetera Nespresso Vertuo,Hogar y Cocina,568.14,195,En Stock,2024-08-25,97,4427.35
+107,Cafetera Nespresso Vertuo,Hogar y Cocina,829.56,222,En Stock,2025-01-25,178,14169.57
+108,Consola PlayStation 5,Electrónica,1346.06,478,En Stock,2024-11-06,177,10996.65
+109,Tostadora Smeg,Hogar y Cocina,1479.92,109,En Stock,2024-11-06,177,10996.65
+110,Teclado Mecánico HyperX Alloy Origins,Oficina,1359.81,215,En Stock,2025-05-19,178,14169.57
+111,Robot Aspirador Roomba i7,Hogar y Cocina,1404.99,149,En Stock,2025-04-20,131,2343.68
+112,Secador de Pelo Dyson Supersonic,Salud y Belleza,128.53,197,En Stock,2024-11-23,170,16632.18
+113,Cerradura Inteligente August,Electrónica,1072.11,373,En Stock,2024-08-27,87,14343.89
+114,Secadora LG Smart,Hogar y Cocina,147.16,365,En Stock,2024-08-01,171,9405.04
+115,Laptop HP Spectre x360,Electrónica,106.88,187,En Stock,2025-04-24,196,16223.79
+116,Maletín Samsonite,Moda,117.84,185,En Stock,2025-01-26,16,12889.37
+117,Taladro Inalámbrico Makita,Automotriz,1286.06,192,En Stock,2025-06-06,145,18820.73
+118,Consola PlayStation 5,Electrónica,1248.81,368,En Stock,2024-07-07,175,9921.28
+119,Taladro Inalámbrico Makita,Automotriz,1063.81,257,En Stock,2024-11-28,157,11743.08
+120,Auriculares Sony WH-1000XM5,Electrónica,887.6,122,En Stock,2024-09-08,127,15950.49
+121,Monitor Dell UltraSharp U2723QE,Oficina,508.2,389,En Stock,2025-01-25,18,17178.69
+122,Cerradura Inteligente August,Electrónica,1470.93,16,En Stock,2024-10-02,159,18395.0
+123,Humidificador Levoit,Hogar y Cocina,1178.67,495,En Stock,2025-02-09,101,13524.22
+124,Router TP-Link Archer AXE75,Electrónica,1170.81,173,En Stock,2024-12-09,165,19177.3
+125,Billetera Bellroy,Moda,887.89,286,En Stock,2024-12-16,77,15867.24
+126,Reloj Inteligente Apple Watch Series 9,Electrónica,490.89,451,En Stock,2024-11-04,188,16632.18
+127,Teclado Mecánico HyperX Alloy Origins,Oficina,1467.22,467,En Stock,2024-09-09,107,12889.37
+128,Monitor Dell UltraSharp U2723QE,Oficina,568.14,195,En Stock,2024-08-25,97,4427.35
+129,Impresora Epson EcoTank,Oficina,829.56,222,En Stock,2025-01-25,178,14169.57
+130,SSD Samsung 990 Pro,Electrónica,1346.06,478,En Stock,2024-11-06,177,10996.65
+131,Secador de Pelo Dyson Supersonic,Salud y Belleza,1479.92,109,En Stock,2024-11-06,177,10996.65
+132,Robot Aspirador Roomba i7,Hogar y Cocina,1359.81,215,En Stock,2025-05-19,178,14169.57
+133,Maletín Samsonite,Moda,1404.99,149,En Stock,2025-04-20,131,2343.68
+134,Reloj Inteligente Apple Watch Series 9,Electrónica,128.53,197,En Stock,2024-11-23,170,16632.18
+135,SSD Samsung 990 Pro,Electrónica,1072.11,373,En Stock,2024-08-27,87,14343.89
+136,Impresora Epson EcoTank,Oficina,147.16,365,En Stock,2024-08-01,171,9405.04
+137,Teclado Mecánico HyperX Alloy Origins,Oficina,106.88,187,En Stock,2025-04-24,196,16223.79
+138,Altavoz Inteligente Amazon Echo Dot,Electrónica,117.84,185,En Stock,2025-01-26,16,12889.37
+139,Maletín Samsonite,Moda,1286.06,192,En Stock,2025-06-06,145,18820.73
+140,Robot Aspirador Roomba i7,Hogar y Cocina,1248.81,368,En Stock,2024-07-07,175,9921.28
+141,Libro El Quijote,Libros,1063.81,257,En Stock,2024-11-28,157,11743.08
+142,Juego de Cuchillos Victorinox,Hogar y Cocina,887.6,122,En Stock,2024-09-08,127,15950.49
+143,Monitor Dell UltraSharp U2723QE,Oficina,508.2,389,En Stock,2025-01-25,18,17178.69
+144,SSD Samsung 990 Pro,Electrónica,1470.93,16,En Stock,2024-10-02,159,18395.0
+145,Maletín Samsonite,Moda,1178.67,495,En Stock,2025-02-09,101,13524.22
+146,Tablet Apple iPad Air,Electrónica,1170.81,173,En Stock,2024-12-09,165,19177.3
+147,Robot Aspirador Roomba i7,Hogar y Cocina,887.89,286,En Stock,2024-12-16,77,15867.24
+148,Microscopio AmScope,Juguetes,490.89,451,En Stock,2024-11-04,188,16632.18
+149,Maletín Samsonite,Moda,1467.22,467,En Stock,2024-09-09,107,12889.37
+150,Escritorio de Pie Ajustable,Oficina,568.14,195,En Stock,2024-08-25,97,4427.35
+151,Maletín Samsonite,Moda,829.56,222,En Stock,2025-01-25,178,14169.57
+152,Cerradura Inteligente August,Electrónica,1346.06,478,En Stock,2024-11-06,177,10996.65
+153,Smartphone Samsung Galaxy S24,Electrónica,1479.92,109,En Stock,2024-11-06,177,10996.65
+154,Monitor Dell UltraSharp U2723QE,Oficina,1359.81,215,En Stock,2025-05-19,178,14169.57
+155,Secadora LG Smart,Hogar y Cocina,1404.99,149,En Stock,2025-04-20,131,2343.68
+156,Maletín Samsonite,Moda,128.53,197,En Stock,2024-11-23,170,16632.18
+157,Humidificador Levoit,Hogar y Cocina,1072.11,373,En Stock,2024-08-27,87,14343.89
+158,Cerradura Inteligente August,Electrónica,147.16,365,En Stock,2024-08-01,171,9405.04
+159,Consola PlayStation 5,Electrónica,106.88,187,En Stock,2025-04-24,196,16223.79
+160,Laptop HP Spectre x360,Electrónica,117.84,185,En Stock,2025-01-26,16,12889.37
+161,Taladro Inalámbrico Makita,Automotriz,1286.06,192,En Stock,2025-06-06,145,18820.73
+162,Microscopio AmScope,Juguetes,1248.81,368,En Stock,2024-07-07,175,9921.28
+163,Impresora Epson EcoTank,Oficina,1063.81,257,En Stock,2024-11-28,157,11743.08
+164,Router TP-Link Archer AXE75,Electrónica,887.6,122,En Stock,2024-09-08,127,15950.49
+165,Consola PlayStation 5,Electrónica,508.2,389,En Stock,2025-01-25,18,17178.69
+166,Secador de Pelo Dyson Supersonic,Salud y Belleza,1470.93,16,En Stock,2024-10-02,159,18395.0
+167,Router TP-Link Archer AXE75,Electrónica,1178.67,495,En Stock,2025-02-09,101,13524.22
+168,Laptop HP Spectre x360,Electrónica,1170.81,173,En Stock,2024-12-09,165,19177.3
+169,Consola PlayStation 5,Electrónica,887.89,286,En Stock,2024-12-16,77,15867.24
+170,Reloj Inteligente Apple Watch Series 9,Electrónica,490.89,451,En Stock,2024-11-04,188,16632.18
+171,Teclado Mecánico HyperX Alloy Origins,Oficina,1467.22,467,En Stock,2024-09-09,107,12889.37
+172,Monitor Dell UltraSharp U2723QE,Oficina,568.14,195,En Stock,2024-08-25,97,4427.35
+173,Auriculares Sony WH-1000XM5,Electrónica,829.56,222,En Stock,2025-01-25,178,14169.57
+174,Maletín Samsonite,Moda,1346.06,478,En Stock,2024-11-06,177,10996.65
+175,Cerradura Inteligente August,Electrónica,1479.92,109,En Stock,2024-11-06,177,10996.65
+176,Smartphone Samsung Galaxy S24,Electrónica,1359.81,215,En Stock,2025-05-19,178,14169.57
+177,Secador de Pelo Dyson Supersonic,Salud y Belleza,1404.99,149,En Stock,2025-04-20,131,2343.68
+178,Auriculares Sony WH-1000XM5,Electrónica,128.53,197,En Stock,2024-11-23,170,16632.18
+179,Cámara Fujifilm X-T5,Electrónica,1072.11,373,En Stock,2024-08-27,87,14343.89
+180,Tablet Apple iPad Air,Electrónica,147.16,365,En Stock,2024-08-01,171,9405.04
+181,Maletín Samsonite,Moda,106.88,187,En Stock,2025-04-24,196,16223.79
+182,Smartphone Samsung Galaxy S24,Electrónica,117.84,185,En Stock,2025-01-26,16,12889.37
+183,Reloj Inteligente Apple Watch Series 9,Electrónica,1286.06,192,En Stock,2025-06-06,145,18820.73
+184,Laptop HP Spectre x360,Electrónica,1248.81,368,En Stock,2024-07-07,175,9921.28
+185,Cámara Fujifilm X-T5,Electrónica,1063.81,257,En Stock,2024-11-28,157,11743.08
+186,Maletín Samsonite,Moda,887.6,122,En Stock,2024-09-08,127,15950.49
+187,Monitor Dell UltraSharp U2723QE,Oficina,508.2,389,En Stock,2025-01-25,18,17178.69
+188,Maletín Samsonite,Moda,1470.93,16,En Stock,2024-10-02,159,18395.0
+189,Consola PlayStation 5,Electrónica,1178.67,495,En Stock,2025-02-09,101,13524.22
+190,SSD Samsung 990 Pro,Electrónica,1170.81,173,En Stock,2024-12-09,165,19177.3
+191,Laptop HP Spectre x360,Electrónica,887.89,286,En Stock,2024-12-16,77,15867.24
+192,Tablet Apple iPad Air,Electrónica,490.89,451,En Stock,2024-11-04,188,16632.18
+193,Smartphone Samsung Galaxy S24,Electrónica,1467.22,467,En Stock,2024-09-09,107,12889.37
+194,Cámara Fujifilm X-T5,Electrónica,568.14,195,En Stock,2024-08-25,97,4427.35
+195,Maletín Samsonite,Moda,829.56,222,En Stock,2025-01-25,178,14169.57
+196,Auriculares Sony WH-1000XM5,Electrónica,1346.06,478,En Stock,2024-11-06,177,10996.65
+197,Tablet Apple iPad Air,Electrónica,1479.92,109,En Stock,2024-11-06,177,10996.65
+198,Reloj Inteligente Apple Watch Series 9,Electrónica,1359.81,215,En Stock,2025-05-19,178,14169.57
+199,Smartphone Samsung Galaxy S24,Electrónica,1404.99,149,En Stock,2025-04-20,131,2343.68
+200,Laptop HP Spectre x360,Electrónica,128.53,197,En Stock,2024-11-23,170,16632.18
