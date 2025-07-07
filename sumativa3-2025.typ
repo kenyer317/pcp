@@ -55,15 +55,43 @@
 *Intrucciones*: Leer cuidadosamente cada situación planteada y para cada problema debe desarrollar un programa para resolver cada una de ellas. 
 #v(1cm)
 
-= pertenece
+= Modelando combinatorios
+== Función **`factorial`**  
+
+    Escribe una función llamada `factorial` que acepte un número entero n como argumento. Esta función debe calcular y retornar el factorial de $n$ es decir $n!$, donde
+
+    $ n! = cases(
+    1 "si" n = 0,
+    1 "si" n = 1,
+    n dot (n-1) dot (n-2) dot dot dot 2 dot 1  
+    ) $
+
+== Función `combinatoria`  
+
+  Utilizando la función factorial que definiste en el punto anterior, crea una nueva función llamada `combinatoria`. Esta función debe recibir dos números enteros $n$ y $m$ como argumentos, asumiendo que $(n>= m>= 0)$. La función debe calcular y retornar el coeficiente combinatorio $binom(n, m)$ usando la siguiente fórmula:
+
+    $ binom(n, m)=n!/((n-m)! dot m!) $
+== Cáculo de suma de combinatorios
+
+ Usando la función combinatoria que desarrollaste en el item anterior, calcular siguiente suma e imprime su valor en pantalla
+    $ binom(20, 0) + binom(20, 1)+ dot dot dot binom(20, 19) + binom(20, 20). $
 
 
-= jdjeje
 
+= Trabajando con tuplas
+Dadas dos tuplas de números reales $ t_1=(a_1,a_2,dot , a_n), t_2=(b_1,b_2,dot, b_n)$ de igual tamaño. Se pide:
 
-= jsjs
+1. Escribir una función `suma_tuplas()` que reciba ambas tuplas y retorne una tupla que contiene en cada posición la suma de los números de las tuplas en esa posición, es decir
+$ (a_1+b_1, a_2+b_2, dot dot dot , a_n+b_n). $
+2. Escribir una función `producto_tuplas()` que reciba ambas tuplas y retorne una tupla que contiene en cada posición la multiplicación de los números de las tuplas en esa posición, es decir 
+$ (a_1 dot b_1, a_2 dot b_2, dot dot dot , a_n dot b_n). $
 
-= ss
+3. Escribir una función `producto_escalar()` que reciba ambas tuplas y devuelva el producto escalar de ambas tuplas, es decir
+$ a_1 dot b_1 + a_2  dot b_2 + a_n dot b_n. $
+4. Calcule el producto escalar de las siguientes tuplas $(3, -2, 5, 7, 10), (0, 4, 1, -6, 5)$ y muestre su valor por pantalla.
+
+=
+
 
 
 
@@ -150,3 +178,16 @@ Realiza las siguientes operaciones utilizando este diccionario:
 
     - El `Teclado Mecánico RGB` (ID `103`) ha sido descontinuado. Elimínalo del catálogo.
     - Después de eliminarlo, intenta acceder a la información del producto con ID `103` (debería lanzar un error si lo haces directamente). Mejor, imprime el catálogo completo para confirmar su eliminación.
+
+= Estdísticos básicos
+ Dada una variable aleatoria $X$ con recorrido $ [x_1, x_2, dots, x_n]$. Sea demás $[p_1, p_2, ..., p_n]$ las probalidades asociadas a cada punto, es decir 
+ $ p_1 = P(X = x_1), p_2 = P(X = x_2), ..., p_n = P(X=x_n) $.
+ La esperanza de la variable aleatoria $X$ denotada por $E(X)$ viene dada por 
+ $ E(X) = x_1 dot p_1+x_2 dot p_2+ dot dot dot x_n dot p_n .$
+ La varaianza viene dada por 
+ $ V(X) = (x_1-E(x))^2+ $
+ 
+  Se pide:
+ == Escribir una función que reciba dos listas, una asociada al recorrido de una variable aletaoria y la otra asociada a su distribución de probabilidades. Esta fuinción debe devolver la esperr
+
+
