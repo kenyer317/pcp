@@ -1,0 +1,253 @@
+ID_Venta,Fecha,Producto,Categoria,Cantidad,Precio_Unitario,Costo_Unitario,Metodo_Pago,Ciudad_Venta,Cliente_Edad,Cliente_Genero,Descuento_Aplicado
+1,2023-01-01,Laptop Ultra,Portátiles,1,1200.00,800.00,Tarjeta,Madrid,35,M,0.05
+2,2023-01-01,Auriculares Bluetooth,Audio,2,75.00,40.00,Efectivo,Barcelona,28,F,0.00
+3,2023-01-02,Smartphone X,Smartphones,1,850.00,600.00,Transferencia,Valencia,42,M,0.10
+4,2023-01-02,Teclado Gaming,Accesorios,1,90.00,50.00,Tarjeta,Madrid,22,M,0.00
+5,2023-01-03,Monitor Curvo 27",Monitores,1,300.00,180.00,Efectivo,Sevilla,31,F,0.05
+6,2023-01-03,Cámara DSLR,Fotografía,1,700.00,450.00,Tarjeta,Barcelona,48,M,0.00
+7,2023-01-04,Smartwatch Pro,Wearables,1,200.00,120.00,Transferencia,Madrid,29,F,0.00
+8,2023-01-04,Disco Duro SSD 1TB,Almacenamiento,1,120.00,70.00,Efectivo,Valencia,33,M,0.05
+9,2023-01-05,Impresora Multifunción,Impresoras,1,180.00,100.00,Tarjeta,Sevilla,38,F,0.00
+10,2023-01-05,Altavoz Inteligente,Audio,2,60.00,30.00,Efectivo,Madrid,25,M,0.10
+11,2023-01-06,Tablet A7,Tablets,1,250.00,150.00,Transferencia,Barcelona,30,F,0.00
+12,2023-01-06,Webcam HD,Accesorios,3,30.00,15.00,Tarjeta,Valencia,26,M,0.00
+13,2023-01-07,Mouse Ergonómico,Accesorios,1,40.00,20.00,Efectivo,Sevilla,40,F,0.05
+14,2023-01-07,TV LED 55",Televisores,1,600.00,400.00,Tarjeta,Madrid,55,M,0.00
+15,2023-01-08,Barra de Sonido,Audio,1,150.00,90.00,Transferencia,Barcelona,32,F,0.00
+16,2023-01-08,Drone Mini,Drones,1,280.00,180.00,Efectivo,Valencia,24,M,0.10
+17,2023-01-09,Auriculares In-ear,Audio,4,50.00,25.00,Tarjeta,Sevilla,29,F,0.00
+18,2023-01-09,Ebook Reader,Lectores,1,100.00,60.00,Transferencia,Madrid,60,M,0.05
+19,2023-01-10,Router Wifi 6,Redes,1,80.00,45.00,Efectivo,Barcelona,36,F,0.00
+20,2023-01-10,Memoria USB 64GB,Almacenamiento,5,15.00,8.00,Tarjeta,Valencia,21,M,0.00
+21,2023-01-11,Laptop Gaming,Portátiles,1,1500.00,1000.00,Tarjeta,Madrid,27,M,0.15
+22,2023-01-11,Smartwatch Fit,Wearables,1,180.00,100.00,Efectivo,Barcelona,34,F,0.00
+23,2023-01-12,Monitor Gaming,Monitores,1,400.00,250.00,Transferencia,Valencia,26,M,0.00
+24,2023-01-12,Cámara de Seguridad,Seguridad,1,120.00,70.00,Tarjeta,Sevilla,40,F,0.05
+25,2023-01-13,Auriculares Noise Cancelling,Audio,1,120.00,60.00,Efectivo,Madrid,30,M,0.00
+26,2023-01-13,Power Bank,Accesorios,2,35.00,18.00,Transferencia,Barcelona,23,F,0.00
+27,2023-01-14,Minicomponente,Audio,1,250.00,150.00,Tarjeta,Valencia,50,M,0.00
+28,2023-01-14,Disco Externo 2TB,Almacenamiento,1,90.00,50.00,Efectivo,Sevilla,37,F,0.00
+29,2023-01-15,Proyector Portátil,Proyectores,1,350.00,220.00,Tarjeta,Madrid,41,M,0.05
+30,2023-01-15,Cable HDMI,Accesorios,5,10.00,5.00,Efectivo,Barcelona,20,F,0.00
+1,2023-01-01,Laptop Ultra,Portátiles,1,1200.00,800.00,Tarjeta,Madrid,35,M,0.05
+31,2023-01-16,Laptop Profesional,Portátiles,1,1800.00,1200.00,Transferencia,Valencia,45,M,0.10
+32,2023-01-16,Altavoz Portátil JBL,Audio,1,80.00,45.00,Tarjeta,Sevilla,28,F,0.00
+33,2023-01-17,Smartphone Lite,Smartphones,1,600.00,400.00,Efectivo,Madrid,33,M,0.00
+34,2023-01-17,Tablet Pro,Tablets,1,400.00,250.00,Tarjeta,Barcelona,39,F,0.05
+35,2023-01-18,Router Portátil,Redes,1,60.00,30.00,Transferencia,Valencia,24,M,0.00
+36,2023-01-18,Smart TV 4K,Televisores,1,800.00,550.00,Efectivo,Sevilla,50,F,0.00
+37,2023-01-19,Soporte Monitor,Accesorios,2,25.00,10.00,Tarjeta,Madrid,27,M,0.00
+38,2023-01-19,Webcam 4K,Accesorios,1,70.00,40.00,Efectivo,Barcelona,31,F,0.00
+39,2023-01-20,Auriculares Gaming,Audio,1,90.00,50.00,Transferencia,Valencia,23,M,0.05
+40,2023-01-20,Docking Station,Accesorios,1,120.00,70.00,Tarjeta,Sevilla,36,F,0.00
+41,2023-01-21,Consola de Videojuegos,Gaming,1,450.00,300.00,Tarjeta,Madrid,20,M,0.10
+42,2023-01-21,Monitor Ultrawide,Monitores,1,500.00,300.00,Efectivo,Barcelona,38,F,0.00
+43,2023-01-22,Robot Aspirador,Hogar Inteligente,1,300.00,180.00,Transferencia,Valencia,45,M,0.00
+44,2023-01-22,Sistema de Sonido 5.1,Audio,1,400.00,250.00,Tarjeta,Sevilla,52,F,0.10
+45,2023-01-23,Router Gaming,Redes,1,150.00,80.00,Efectivo,Madrid,29,M,0.00
+46,2023-01-23,Cargador Inalámbrico,Accesorios,2,40.00,20.00,Transferencia,Barcelona,26,F,0.00
+47,2023-01-24,Teclado Inalámbrico,Accesorios,1,60.00,30.00,Tarjeta,Valencia,34,M,0.00
+48,2023-01-24,Altavoz Bluetooth Portátil,Audio,1,70.00,35.00,Efectivo,Sevilla,28,F,0.05
+49,2023-01-25,Ebook Reader Kindle,Lectores,1,110.00,65.00,Tarjeta,Madrid,62,M,0.00
+50,2023-01-25,Smartwatch Xiaomi,Wearables,1,100.00,60.00,Transferencia,Barcelona,25,F,0.00
+51,2023-01-26,Laptop Premium,Portátiles,1,2000.00,1500.00,Tarjeta,Madrid,40,M,0.10
+52,2023-01-26,Audífonos Deportivos,Audio,2,85.00,45.00,Efectivo,Barcelona,27,F,0.00
+53,2023-01-27,Smartphone Plus,Smartphones,1,950.00,700.00,Transferencia,Valencia,38,M,0.05
+54,2023-01-27,Gaming Mouse,Accesorios,1,70.00,35.00,Tarjeta,Madrid,21,M,0.00
+55,2023-01-28,Monitor 4K,Monitores,1,450.00,280.00,Efectivo,Sevilla,33,F,0.00
+56,2023-01-28,Cámara Compacta,Fotografía,1,300.00,180.00,Tarjeta,Barcelona,40,M,0.00
+57,2023-01-29,Smart Band,Wearables,1,50.00,25.00,Transferencia,Madrid,26,F,0.00
+58,2023-01-29,SSD Externo 500GB,Almacenamiento,1,80.00,45.00,Efectivo,Valencia,30,M,0.05
+59,2023-01-30,Impresora Láser,Impresoras,1,250.00,150.00,Tarjeta,Sevilla,45,F,0.00
+60,2023-01-30,Altavoz Bluetooth JBL,Audio,1,90.00,50.00,Efectivo,Madrid,24,M,0.10
+61,2023-02-01,Laptop Educativa,Portátiles,1,700.00,450.00,Tarjeta,Barcelona,20,F,0.00
+62,2023-02-01,Auriculares con Cable,Audio,3,25.00,12.00,Efectivo,Valencia,29,M,0.00
+63,2023-02-02,Smartphone económico,Smartphones,1,400.00,250.00,Transferencia,Sevilla,35,F,0.00
+64,2023-02-02,Mouse Óptico,Accesorios,2,15.00,7.00,Tarjeta,Madrid,28,M,0.00
+65,2023-02-03,Monitor Full HD,Monitores,1,200.00,120.00,Efectivo,Barcelona,32,F,0.05
+66,2023-02-03,Cámara Deportiva,Fotografía,1,180.00,100.00,Tarjeta,Valencia,25,M,0.00
+67,2023-02-04,Smartwatch Básico,Wearables,1,150.00,80.00,Transferencia,Sevilla,30,F,0.00
+68,2023-02-04,Pendrive 128GB,Almacenamiento,4,20.00,10.00,Efectivo,Madrid,23,M,0.00
+69,2023-02-05,Impresora de Etiquetas,Impresoras,1,100.00,60.00,Tarjeta,Barcelona,40,F,0.00
+70,2023-02-05,Altavoz Bluetooth JBL,Audio,1,90.00,50.00,Efectivo,Valencia,26,M,0.10
+71,2023-02-06,Tablet económica,Tablets,1,180.00,100.00,Transferencia,Sevilla,31,F,0.00
+72,2023-02-06,Webcam Básica,Accesorios,2,20.00,10.00,Tarjeta,Madrid,24,M,0.00
+73,2023-02-07,Mouse Inalámbrico,Accesorios,1,40.00,20.00,Efectivo,Barcelona,35,F,0.00
+74,2023-02-07,TV Smart 32",Televisores,1,350.00,200.00,Tarjeta,Valencia,48,M,0.00
+75,2023-02-08,Barra de Sonido Compacta,Audio,1,100.00,60.00,Transferencia,Sevilla,30,F,0.00
+76,2023-02-08,Drone para principiantes,Drones,1,150.00,90.00,Efectivo,Madrid,22,M,0.05
+77,2023-02-09,Auriculares USB-C,Audio,3,40.00,20.00,Tarjeta,Barcelona,29,F,0.00
+78,2023-02-09,Ebook Reader Paperwhite,Lectores,1,130.00,80.00,Transferencia,Valencia,58,M,0.00
+79,2023-02-10,Router Wifi 5,Redes,1,60.00,30.00,Efectivo,Sevilla,34,F,0.00
+80,2023-02-10,Memoria SD 128GB,Almacenamiento,2,25.00,12.00,Tarjeta,Madrid,20,M,0.00
+81,2023-02-11,Laptop Chromebook,Portátiles,1,400.00,250.00,Tarjeta,Barcelona,25,F,0.00
+82,2023-02-11,Smartwatch Kid,Wearables,1,80.00,40.00,Efectivo,Valencia,30,M,0.00
+83,2023-02-12,Monitor LED 24",Monitores,1,150.00,90.00,Transferencia,Sevilla,38,F,0.00
+84,2023-02-12,Cámara de Vigilancia,Seguridad,1,80.00,45.00,Tarjeta,Madrid,42,M,0.00
+85,2023-02-13,Auriculares con Micrófono,Audio,2,60.00,30.00,Efectivo,Barcelona,28,F,0.00
+86,2023-02-13,Power Bank Compacta,Accesorios,3,20.00,10.00,Transferencia,Valencia,21,M,0.00
+87,2023-02-14,Minicomponente Portátil,Audio,1,180.00,100.00,Tarjeta,Sevilla,48,F,0.00
+88,2023-02-14,Disco SSD Externo,Almacenamiento,1,100.00,60.00,Efectivo,Madrid,35,M,0.00
+89,2023-02-15,Proyector Mini,Proyectores,1,250.00,150.00,Tarjeta,Barcelona,39,F,0.00
+90,2023-02-15,Cable USB-C,Accesorios,5,8.00,4.00,Efectivo,Valencia,20,M,0.00
+91,2023-02-16,Laptop Ultrabook,Portátiles,1,1300.00,900.00,Transferencia,Sevilla,40,F,0.05
+92,2023-02-16,Altavoz Bluetooth JBL,Audio,1,90.00,50.00,Tarjeta,Madrid,27,M,0.10
+93,2023-02-17,Smartphone gaming,Smartphones,1,700.00,500.00,Efectivo,Barcelona,26,F,0.00
+94,2023-02-17,Tablet Media,Tablets,1,300.00,180.00,Tarjeta,Valencia,32,M,0.00
+95,2023-02-18,Router de Malla,Redes,1,100.00,60.00,Transferencia,Sevilla,40,F,0.00
+96,2023-02-18,Smart TV 50",Televisores,1,700.00,480.00,Efectivo,Madrid,55,M,0.00
+97,2023-02-19,Soporte para Portátil,Accesorios,1,30.00,15.00,Tarjeta,Barcelona,24,F,0.00
+98,2023-02-19,Webcam para streaming,Accesorios,1,100.00,60.00,Efectivo,Valencia,30,M,0.00
+99,2023-02-20,Auriculares con cancelación de ruido,Audio,1,150.00,80.00,Transferencia,Sevilla,35,F,0.05
+100,2023-02-20,Hub USB-C,Accesorios,2,25.00,12.00,Tarjeta,Madrid,22,M,0.00
+101,2023-03-01,Laptop Basic,Portátiles,1,600.00,350.00,Tarjeta,Madrid,30,F,0.00
+102,2023-03-01,Audífonos Inalámbricos,Audio,2,90.00,50.00,Efectivo,Barcelona,25,M,0.00
+103,2023-03-02,Smartphone Pro,Smartphones,1,1000.00,700.00,Transferencia,Valencia,40,F,0.10
+104,2023-03-02,Gaming Keyboard,Accesorios,1,110.00,60.00,Tarjeta,Madrid,23,M,0.00
+105,2023-03-03,Monitor Gamer,Monitores,1,500.00,300.00,Efectivo,Sevilla,29,F,0.05
+106,2023-03-03,Cámara Mirrorless,Fotografía,1,900.00,600.00,Tarjeta,Barcelona,45,M,0.00
+107,2023-03-04,Smartwatch Avanzado,Wearables,1,250.00,150.00,Transferencia,Madrid,32,F,0.00
+108,2023-03-04,Disco Duro Externo 1TB,Almacenamiento,1,100.00,55.00,Efectivo,Valencia,37,M,0.05
+109,2023-03-05,Impresora 3D,Impresoras,1,400.00,250.00,Tarjeta,Sevilla,30,F,0.00
+110,2023-03-05,Altavoz Inteligente con Pantalla,Audio,1,120.00,70.00,Efectivo,Madrid,26,M,0.10
+111,2023-03-06,Tablet Premium,Tablets,1,500.00,300.00,Transferencia,Barcelona,35,F,0.00
+112,2023-03-06,Micrófono USB,Accesorios,1,80.00,40.00,Tarjeta,Valencia,28,M,0.00
+113,2023-03-07,Mouse Vertical,Accesorios,1,50.00,25.00,Efectivo,Sevilla,42,F,0.05
+114,2023-03-07,TV OLED 65",Televisores,1,1500.00,1000.00,Tarjeta,Madrid,60,M,0.00
+115,2023-03-08,Soundbar Premium,Audio,1,300.00,180.00,Transferencia,Barcelona,35,F,0.00
+116,2023-03-08,Drone Profesional,Drones,1,700.00,450.00,Efectivo,Valencia,28,M,0.10
+117,2023-03-09,Auriculares Hi-Fi,Audio,1,200.00,100.00,Tarjeta,Sevilla,32,F,0.00
+118,2023-03-09,Ebook Reader KOBO,Lectores,1,140.00,85.00,Transferencia,Madrid,55,M,0.05
+119,2023-03-10,Extensor Wifi,Redes,1,50.00,25.00,Efectivo,Barcelona,38,F,0.00
+120,2023-03-10,Memoria RAM 16GB,Almacenamiento,1,60.00,30.00,Tarjeta,Valencia,25,M,0.00
+121,2023-03-11,Laptop Workstation,Portátiles,1,2500.00,1800.00,Tarjeta,Madrid,45,M,0.15
+122,2023-03-11,Auriculares Bluetooth Sony,Audio,1,180.00,100.00,Efectivo,Barcelona,30,F,0.00
+123,2023-03-12,Smartphone Z,Smartphones,1,1200.00,850.00,Transferencia,Valencia,40,M,0.00
+124,2023-03-12,Hub USB,Accesorios,3,20.00,10.00,Tarjeta,Sevilla,24,F,0.05
+125,2023-03-13,Monitor Ultrafino,Monitores,1,350.00,200.00,Efectivo,Madrid,30,M,0.00
+126,2023-03-13,Cámara Web,Accesorios,1,40.00,20.00,Transferencia,Barcelona,27,F,0.00
+127,2023-03-14,Minicomponente con Bluetooth,Audio,1,200.00,120.00,Tarjeta,Valencia,52,M,0.00
+128,2023-03-14,SSD M.2 1TB,Almacenamiento,1,150.00,80.00,Efectivo,Sevilla,39,F,0.00
+129,2023-03-15,Proyector 4K,Proyectores,1,800.00,500.00,Tarjeta,Madrid,48,M,0.05
+130,2023-03-15,Cable Ethernet,Accesorios,5,10.00,6.00,Efectivo,Barcelona,21,F,0.00
+131,2023-03-16,Laptop Convertible,Portátiles,1,1000.00,700.00,Transferencia,Valencia,35,M,0.10
+132,2023-03-16,Altavoz Portátil Bose,Audio,1,150.00,90.00,Tarjeta,Sevilla,29,F,0.00
+133,2023-03-17,Smartphone gaming Pro,Smartphones,1,900.00,650.00,Efectivo,Madrid,28,M,0.00
+134,2023-03-17,Tablet Gráfica,Tablets,1,300.00,180.00,Tarjeta,Barcelona,36,F,0.05
+135,2023-03-18,Router Gaming Pro,Redes,1,200.00,120.00,Transferencia,Valencia,25,M,0.00
+136,2023-03-18,Smart TV QLED 65",Televisores,1,1200.00,800.00,Efectivo,Sevilla,60,F,0.00
+137,2023-03-19,Soporte para Tablet,Accesorios,2,20.00,10.00,Tarjeta,Madrid,26,M,0.00
+138,2023-03-19,Webcam Full HD,Accesorios,1,50.00,25.00,Efectivo,Barcelona,32,F,0.00
+139,2023-03-20,Auriculares Inalámbricos Gaming,Audio,1,130.00,70.00,Transferencia,Valencia,24,M,0.05
+140,2023-03-20,Adaptador USB-C,Accesorios,3,15.00,8.00,Tarjeta,Sevilla,38,F,0.00
+141,2023-03-21,Consola Portátil,Gaming,1,300.00,200.00,Tarjeta,Madrid,21,M,0.10
+142,2023-03-21,Monitor Dual,Monitores,1,600.00,350.00,Efectivo,Barcelona,40,F,0.00
+143,2023-03-22,Robot de Cocina,Hogar Inteligente,1,400.00,250.00,Transferencia,Valencia,48,M,0.00
+144,2023-03-22,Sistema de Audio Home Cinema,Audio,1,700.00,450.00,Tarjeta,Sevilla,55,F,0.10
+145,2023-03-23,Router Malla 2p,Redes,1,200.00,120.00,Efectivo,Madrid,30,M,0.00
+146,2023-03-23,Cargador Rápido,Accesorios,2,30.00,15.00,Transferencia,Barcelona,28,F,0.00
+147,2023-03-24,Teclado Mecánico RGB,Accesorios,1,100.00,55.00,Tarjeta,Valencia,35,M,0.00
+148,2023-03-24,Altavoz Inteligente Amazon,Audio,1,80.00,40.00,Efectivo,Sevilla,30,F,0.05
+149,2023-03-25,Ebook Reader Kobo Clara,Lectores,1,120.00,70.00,Tarjeta,Madrid,65,M,0.00
+150,2023-03-25,Smartwatch Samsung,Wearables,1,250.00,150.00,Transferencia,Barcelona,27,F,0.00
+151,2023-04-01,Laptop Ultraligera,Portátiles,1,1500.00,1000.00,Tarjeta,Madrid,32,M,0.05
+152,2023-04-01,Auriculares Deportivos,Audio,2,70.00,35.00,Efectivo,Barcelona,26,F,0.00
+153,2023-04-02,Smartphone Plegable,Smartphones,1,1800.00,1300.00,Transferencia,Valencia,40,M,0.15
+154,2023-04-02,Mouse Vertical Ergonómico,Accesorios,1,60.00,30.00,Tarjeta,Madrid,38,F,0.00
+155,2023-04-03,Monitor Táctil,Monitores,1,400.00,250.00,Efectivo,Sevilla,30,M,0.00
+156,2023-04-03,Cámara Instantánea,Fotografía,1,90.00,50.00,Tarjeta,Barcelona,25,F,0.00
+157,2023-04-04,Smart Band Fitness,Wearables,1,60.00,30.00,Transferencia,Madrid,28,M,0.00
+158,2023-04-04,SSD Portátil 2TB,Almacenamiento,1,250.00,150.00,Efectivo,Valencia,42,F,0.05
+159,2023-04-05,Impresora Fotográfica,Impresoras,1,300.00,180.00,Tarjeta,Sevilla,35,M,0.00
+160,2023-04-05,Altavoz Inteligente Google,Audio,1,100.00,60.00,Efectivo,Madrid,23,F,0.10
+161,2023-04-06,Tablet Niños,Tablets,1,150.00,80.00,Tarjeta,Barcelona,30,M,0.00
+162,2023-04-06,Micrófono Condensador,Accesorios,1,100.00,50.00,Efectivo,Valencia,27,F,0.00
+163,2023-04-07,Mouse Gamer RGB,Accesorios,1,80.00,40.00,Transferencia,Sevilla,20,M,0.05
+164,2023-04-07,TV Proyector,Televisores,1,900.00,600.00,Tarjeta,Madrid,58,F,0.00
+165,2023-04-08,Auriculares Bluetooth JBL,Audio,1,100.00,55.00,Transferencia,Barcelona,33,M,0.00
+166,2023-04-08,Drone con Cámara 4K,Drones,1,500.00,300.00,Efectivo,Valencia,26,F,0.10
+167,2023-04-09,Auriculares Abiertos,Audio,1,150.00,80.00,Tarjeta,Sevilla,30,M,0.00
+168,2023-04-09,Ebook Reader Premium,Lectores,1,180.00,110.00,Transferencia,Madrid,60,F,0.05
+169,2023-04-10,Mesh Wifi System,Redes,1,250.00,150.00,Efectivo,Barcelona,35,M,0.00
+170,2023-04-10,Memoria Externa SSD,Almacenamiento,1,180.00,100.00,Tarjeta,Valencia,40,F,0.00
+171,2023-04-11,Laptop de Diseño,Portátiles,1,2200.00,1600.00,Tarjeta,Madrid,38,M,0.10
+172,2023-04-11,Audífonos Profesionales,Audio,1,300.00,180.00,Efectivo,Barcelona,32,F,0.00
+173,2023-04-12,Smartphone Gaming Pro,Smartphones,1,1100.00,800.00,Transferencia,Valencia,27,M,0.00
+174,2023-04-12,Controlador Gaming,Accesorios,1,70.00,40.00,Tarjeta,Madrid,22,F,0.05
+175,2023-04-13,Monitor Curvo Grande,Monitores,1,700.00,450.00,Efectivo,Sevilla,35,M,0.00
+176,2023-04-13,Cámara Vigilancia Inalámbrica,Seguridad,1,150.00,80.00,Transferencia,Barcelona,40,F,0.00
+177,2023-04-14,Auriculares Bluetooth Grandes,Audio,1,150.00,80.00,Tarjeta,Valencia,30,M,0.00
+178,2023-04-14,Power Station,Accesorios,1,200.00,120.00,Efectivo,Sevilla,45,F,0.00
+179,2023-04-15,Proyector Portátil Mini,Proyectores,1,300.00,180.00,Tarjeta,Madrid,40,M,0.05
+180,2023-04-15,Cable de Red,Accesorios,10,5.00,2.00,Efectivo,Barcelona,25,F,0.00
+181,2023-04-16,Laptop para Juegos,Portátiles,1,1600.00,1100.00,Transferencia,Valencia,28,M,0.10
+182,2023-04-16,Altavoz Inteligente Google Nest,Audio,1,120.00,70.00,Tarjeta,Sevilla,32,F,0.00
+183,2023-04-17,Smartphone de Gama Alta,Smartphones,1,1500.00,1000.00,Efectivo,Madrid,38,M,0.00
+184,2023-04-17,Tablet para Dibujar,Tablets,1,450.00,280.00,Tarjeta,Barcelona,30,F,0.05
+185,2023-04-18,Router de Fibra Óptica,Redes,1,180.00,100.00,Transferencia,Valencia,42,M,0.00
+186,2023-04-18,Smart TV 75",Televisores,1,2000.00,1500.00,Efectivo,Sevilla,65,F,0.00
+187,2023-04-19,Soporte para Celular,Accesorios,3,10.00,5.00,Tarjeta,Madrid,20,M,0.00
+188,2023-04-19,Webcam con Micrófono,Accesorios,1,70.00,35.00,Efectivo,Barcelona,29,F,0.00
+189,2023-04-20,Auriculares Plegables,Audio,1,80.00,40.00,Transferencia,Valencia,25,M,0.05
+190,2023-04-20,Adaptador HDMI,Accesorios,2,15.00,7.00,Tarjeta,Sevilla,33,F,0.00
+191,2023-04-21,Consola de Videojuegos Portátil,Gaming,1,400.00,250.00,Tarjeta,Madrid,22,M,0.10
+192,2023-04-21,Monitor Profesional,Monitores,1,800.00,500.00,Efectivo,Barcelona,45,F,0.00
+193,2023-04-22,Robot de Limpieza,Hogar Inteligente,1,500.00,300.00,Transferencia,Valencia,50,M,0.00
+194,2023-04-22,Sistema de Sonido Envolvente,Audio,1,1000.00,600.00,Tarjeta,Sevilla,60,F,0.10
+195,2023-04-23,Router con VPN,Redes,1,250.00,150.00,Efectivo,Madrid,35,M,0.00
+196,2023-04-23,Cargador Múltiple,Accesorios,1,40.00,20.00,Transferencia,Barcelona,30,F,0.00
+197,2023-04-24,Teclado Inalámbrico y Mouse,Accesorios,1,80.00,40.00,Tarjeta,Valencia,40,M,0.00
+198,2023-04-24,Altavoz Inteligente HomePod,Audio,1,300.00,180.00,Efectivo,Sevilla,38,F,0.05
+199,2023-04-25,Ebook Reader Impermeable,Lectores,1,160.00,90.00,Tarjeta,Madrid,50,M,0.00
+200,2023-04-25,Smartwatch para Niños,Wearables,1,100.00,50.00,Transferencia,Barcelona,25,F,0.00
+201,2023-04-26,Laptop de Diseño Gráfico,Portátiles,1,2800.00,2000.00,Tarjeta,Madrid,30,M,0.15
+202,2023-04-26,Audífonos de Estudio,Audio,1,400.00,250.00,Efectivo,Barcelona,42,F,0.00
+203,2023-04-27,Smartphone Ultra Delgado,Smartphones,1,1000.00,700.00,Transferencia,Valencia,35,M,0.00
+204,2023-04-27,Gamepad,Accesorios,1,60.00,30.00,Tarjeta,Madrid,20,F,0.05
+205,2023-04-28,Monitor Gamer 144Hz,Monitores,1,600.00,380.00,Efectivo,Sevilla,28,M,0.00
+206,2023-04-28,Cámara de Seguridad Exterior,Seguridad,1,180.00,100.00,Tarjeta,Barcelona,40,F,0.00
+207,2023-04-29,Auriculares VR,Audio,1,300.00,180.00,Transferencia,Madrid,25,M,0.00
+208,2023-04-29,Base de Carga Inalámbrica,Accesorios,1,50.00,25.00,Efectivo,Valencia,30,F,0.00
+209,2023-04-30,Proyector para Oficina,Proyectores,1,400.00,250.00,Tarjeta,Sevilla,48,M,0.05
+210,2023-04-30,Cable DisplayPort,Accesorios,2,20.00,10.00,Efectivo,Barcelona,22,F,0.00
+211,2023-05-01,Laptop Profesional,Portátiles,1,1800.00,1200.00,Transferencia,Madrid,40,M,0.10
+212,2023-05-01,Audífonos Inalámbricos JBL,Audio,1,100.00,55.00,Tarjeta,Barcelona,26,F,0.00
+213,2023-05-02,Smartphone Básico,Smartphones,1,500.00,300.00,Efectivo,Valencia,35,M,0.00
+214,2023-05-02,Teclado Ergonómico,Accesorios,1,90.00,50.00,Transferencia,Madrid,32,F,0.05
+215,2023-05-03,Monitor de Oficina,Monitores,1,250.00,150.00,Tarjeta,Sevilla,45,M,0.00
+216,2023-05-03,Cámara Web Logitech,Accesorios,1,60.00,30.00,Efectivo,Barcelona,29,F,0.00
+217,2023-05-04,Smartwatch Huawei,Wearables,1,180.00,100.00,Transferencia,Madrid,24,M,0.00
+218,2023-05-04,Disco Duro Externo 4TB,Almacenamiento,1,150.00,80.00,Tarjeta,Valencia,50,F,0.00
+219,2023-05-05,Impresora de Gran Formato,Impresoras,1,600.00,350.00,Efectivo,Sevilla,38,M,0.05
+220,2023-05-05,Altavoz Bluetooth JBL Flip,Audio,1,120.00,70.00,Tarjeta,Madrid,21,F,0.00
+221,2023-05-06,Tablet Samsung,Tablets,1,300.00,180.00,Transferencia,Barcelona,30,M,0.00
+222,2023-05-06,Auriculares con Cable USB-C,Audio,2,40.00,20.00,Efectivo,Valencia,27,F,0.00
+223,2023-05-07,Mouse Óptico Inalámbrico,Accesorios,1,30.00,15.00,Tarjeta,Sevilla,40,M,0.00
+224,2023-05-07,TV LED 60",Televisores,1,750.00,500.00,Efectivo,Madrid,55,F,0.00
+225,2023-05-08,Barra de Sonido con Subwoofer,Audio,1,250.00,150.00,Transferencia,Barcelona,35,M,0.00
+226,2023-05-08,Drone con GPS,Drones,1,400.00,250.00,Tarjeta,Valencia,28,F,0.10
+227,2023-05-09,Auriculares In-ear Deportivos,Audio,3,60.00,30.00,Efectivo,Sevilla,25,M,0.00
+228,2023-05-09,Ebook Reader con Luz Frontal,Lectores,1,130.00,80.00,Tarjeta,Madrid,62,F,0.05
+229,2023-05-10,Router Inalámbrico,Redes,1,70.00,35.00,Transferencia,Barcelona,38,M,0.00
+230,2023-05-10,Memoria USB 128GB,Almacenamiento,4,20.00,10.00,Efectivo,Valencia,22,F,0.00
+231,2023-05-11,Laptop de Negocios,Portátiles,1,1200.00,800.00,Tarjeta,Madrid,40,M,0.05
+232,2023-05-11,Smartwatch Apple Watch,Wearables,1,350.00,200.00,Efectivo,Barcelona,30,F,0.00
+233,2023-05-12,Monitor con USB-C,Monitores,1,400.00,250.00,Transferencia,Valencia,35,M,0.00
+234,2023-05-12,Cámara para Streaming,Seguridad,1,100.00,60.00,Tarjeta,Sevilla,28,F,0.00
+235,2023-05-13,Auriculares Profesionales,Audio,1,250.00,150.00,Efectivo,Madrid,32,M,0.00
+236,2023-05-13,Power Bank Solar,Accesorios,1,50.00,25.00,Transferencia,Barcelona,25,F,0.00
+237,2023-05-14,Minicomponente con CD,Audio,1,150.00,90.00,Tarjeta,Valencia,50,M,0.00
+238,2023-05-14,Disco Duro Externo Portátil,Almacenamiento,1,80.00,45.00,Efectivo,Sevilla,37,F,0.00
+239,2023-05-15,Proyector de Cine en Casa,Proyectores,1,1000.00,600.00,Tarjeta,Madrid,45,M,0.10
+240,2023-05-15,Cable HDMI 4K,Accesorios,3,15.00,7.00,Efectivo,Barcelona,20,F,0.00
+241,2023-05-16,Laptop para Programación,Portátiles,1,1500.00,1000.00,Transferencia,Valencia,30,M,0.00
+242,2023-05-16,Altavoz Inteligente con Cámara,Audio,1,180.00,100.00,Tarjeta,Sevilla,28,F,0.05
+243,2023-05-17,Smartphone Google Pixel,Smartphones,1,800.00,550.00,Efectivo,Madrid,35,M,0.00
+244,2023-05-17,Tablet Lenovo,Tablets,1,200.00,120.00,Tarjeta,Barcelona,32,F,0.00
+245,2023-05-18,Router de Viaje,Redes,1,40.00,20.00,Transferencia,Valencia,24,M,0.00
+246,2023-05-18,Smart TV Sony 55",Televisores,1,900.00,600.00,Efectivo,Sevilla,50,F,0.00
+247,2023-05-19,Soporte para Bicicleta (celular),Accesorios,2,15.00,7.00,Tarjeta,Madrid,27,M,0.00
+248,2023-05-19,Webcam para Videoconferencia,Accesorios,1,80.00,40.00,Efectivo,Barcelona,31,F,0.00
+249,2023-05-20,Auriculares con Luz LED,Audio,1,70.00,35.00,Transferencia,Valencia,23,M,0.05
+250,2023-05-20,Adaptador de Corriente Universal,Accesorios,1,25.00,12.00,Tarjeta,Sevilla,36,F,0.00
+11,2023-01-06,Tablet A7,Tablets,1,250.00,150.00,Transferencia,Barcelona,30,F,0.00
